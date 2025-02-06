@@ -110,4 +110,4 @@ The decision variables of the model are:
 
 ## Repository (Remove this part if the model is uploaded in this repository and you don't want to refer to an external repository) 
 
-(wwww.github.com/antoniamgolab/iDesignRES_transcompmodel.git)[https://github.com/antoniamgolab/iDesignRES_transcompmodel.git]
+[wwww.github.com/antoniamgolab/iDesignRES_transcompmodel.git](https://github.com/antoniamgolab/iDesignRES_transcompmodel.git)
